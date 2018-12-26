@@ -41,8 +41,8 @@ menu:
 #    target: true         Whether to jump out | 是否跳出
 social:
   home:
-    title: MinHow
-    url: //minhow.com
+    title: 环宇
+    url: //huanyu10.cn
     target: true
   github:
     title: Github
@@ -69,7 +69,7 @@ excerpt_length: 190
 # Excerpt link | 摘录链接
 excerpt_link: 阅读更多>>
 # New window open link | 新窗口打开文章
-open_new_link: false     #ture
+open_new_link: true     #ture
 # Article default cover picture，size：350*150 | 文章默认封面图，尺寸：350*150
 cover_picture: images/banner.jpg
 # Open background particles | 开启背景粒子
@@ -108,7 +108,18 @@ reward:
 changyan_appid: false
 changyan_appkey: false
 # 友言，输入id
-youyan_id: false
+youyan_id: true
+valine:
+    enable: true
+    appId:  a9MMJXDX2ef2Kd9rFR9SnSbO-gzGzoHsz
+    appKey: ffJigyisdGzcsIAEKSpi42k0
+    notify: false
+    verify: false
+    avatar: mp
+    placeholder: 提示文字 相信未来
+    guest_info: nick,mail,link
+    pageSize: 10
+    lang: zh-cn
 # disqus
 disqus: false
 # gitment  https://github.com/imsun/gitment
@@ -135,4 +146,4 @@ access_counter:
   site_pv: 总访问量：
 
 # Copyright Information | 版权信息
-copyright: 2018 MinHow
+copyright: 2018 环宇

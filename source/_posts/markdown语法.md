@@ -2,6 +2,13 @@
 title: markdown语法
 date: 2018-12-25 09:46:59
 tags:
+- hexo
+- giehub
+- 域名
+categories:
+- 笔记
+- 教程
+cover_picture: /images/linux.jpg
 ---
 # 标题相关
 ## 二级标题
